@@ -1,0 +1,2 @@
+C:/Users/Saddam/Desktop/Projects/integria_app/android/app/.cxx/Debug/2fo6f9q5/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Saddam/Desktop/Projects/integria_app/android/app/.cxx/Debug/2fo6f9q5/arm64-v8a/CMakeFiles/rebuild_cache.dir
